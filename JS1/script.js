@@ -57,9 +57,11 @@
 // var c = (a + b) / 2;
 // console.log(c);
 
-// 9-masala
+// // 9-masala
 
-
+// var a = 4;
+// var b = 3;
+// console.log((a * b ) ** 0.5)
 
 // 10-masala
 
@@ -69,6 +71,17 @@
 // var c1 = a ** 2;
 // var c2 = b ** 2;
 // console.log(y, c1, c2);
+
+// 11-masala
+
+// var a = 10;
+// var b = 15;
+// var c = (a ** 2 + b ** 2) ** 0.5;
+// var p = a + b + c;
+// console.log(p);
+
+// 12- masala
+
 
 
 // 13-masala
@@ -90,6 +103,20 @@
 // var s = p * r * (r ** 2);
 // console.log(l, s);
 
+//15-masala
+
+// var r = 10;
+// var p = 3.14;
+// var l = 2 * p * r;
+// var s = p * r ** 2;
+// console.log(l, s);
+
+//16- masala
+
+
+
+
+
 // 17-masala
 
 // var a = 10;
@@ -108,6 +135,14 @@
 // var ac = c - a;
 // var bc = b - c;
 // console.log(ac * bc);
+
+//19 - masala
+
+var a = 10;
+var b = 20;
+var p = 2 * (a + b);
+var s = a * b;
+console.log(p, s);
 
 // 20-masala
 
