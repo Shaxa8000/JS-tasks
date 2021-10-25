@@ -145,9 +145,20 @@ var s = a * b;
 console.log(p, s);
 
 // 20-masala
+// x1 = 3;
+// x2 = 4;
+// y1 = 5;
+// y2 = 6;
+// console.log((x2 - x1) ** 2 + (y2 - y1) **2 ** 0.5)
 
+//21-masala
 
-
+// var a = 15;
+// var b = 10;
+// var c = 18;
+// p = (a + b + c) / 2;
+// s = ((p * (p - a) * (p - b) * (p - c) ** 0.5);
+// console.log(s);
 
 
 // 22- masala
