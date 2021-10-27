@@ -13,11 +13,15 @@
 //  second way
 
 
-// function myFunc(string) {
-//     console.log(string.repeat(5))
+// function myFunc() {
+// const a = "welcome webbrain";
+//     const b = a.repeat(5).match(/we/g).length;
+//     return b;
 // }
 
-// myFunc("Welcome webbrain ");
+// console.log(myFunc());
+
+
 
 
 
