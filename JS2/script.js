@@ -14,7 +14,7 @@
 
 
 // function myFunc() {
-// const a = "welcome webbrain";
+//     const a = "welcome webbrain";
 //     const b = a.repeat(5).match(/we/g).length;
 //     return b;
 // }
@@ -88,7 +88,6 @@
 //     return (a + 0.5).toFixed(0);
 // }
 // console.log(ceil(1.001));
-
 
 
 
