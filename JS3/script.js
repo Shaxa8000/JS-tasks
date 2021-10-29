@@ -59,6 +59,40 @@
 
 
 
+// Odd and Even numbers
+
+
+// for (let i = 0; i <= 100; i++) {
+//     if (i === 0) {
+//         console.log(i + " is even")
+//     } else if (i % 2 === 0) {
+//         console.log(i + " is even")
+//     } else {
+//         console.log(i + " is Odd");
+//     }
+// }
+
+
+
+
+
+
+// FOR LOOP 10 TO 0
+
+
+// for (let i = 10; i >= 0; i--) {
+//     console.log(i)
+// }
+
+
+
+
+
+
+
+
+
+
 
 
 
