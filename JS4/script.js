@@ -98,6 +98,22 @@
 // }
 // console.log(reversStr("Hello"));
 
+// ADDING REVERSED AND DEFAULT VALUE
+
+// reversStr = (str) => {
+//     var strSplit = str.split("");
+//     var strReverse = strSplit.reverse();
+//     var strJoin = strReverse.join('');
+//     var strConcat = strJoin.concat(str);
+//     return strConcat
+// }
+// console.log(reversStr("Hello"));
+
+
+
+
+
+
 
 
 
