@@ -9,7 +9,7 @@
 // myFunc();
 
 // 2
-
+ 
 
 // function myFunc() {
 //     const numStr = "00402";
@@ -44,6 +44,9 @@
 
 // console.log(myArr(["a", "a", "a", "a"]));
 // console.log(myArr(['a', 'a', 'b', 'a']));
+
+
+
 
 
 //  BY USING FOR LOOP
@@ -83,6 +86,17 @@
 // console.log(insertSpace('SheWalksToTheBeach'));
 // console.log(insertSpace('MawinTalksTooMuch'));
 // console.log(insertSpace('TheGreatestUpsetInHistory'));
+
+
+//REVERSE A STRING
+
+// reversStr = (str) => {
+//     var strSplit = str.split("");
+//     var strReverse = strSplit.reverse();
+//     var strJoin = strReverse.join('');
+//     return strJoin
+// }
+// console.log(reversStr("Hello"));
 
 
 
