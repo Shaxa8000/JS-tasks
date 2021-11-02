@@ -77,15 +77,7 @@
 
 //  4 -TASK
 
-// insertSpace = (string) => {
-//      string = string.replace(/([a-z])([A-Z])/g, '$1 $2');
-//      string = string.replace(/([A-Z])([A-Z][a-z])/g, '$1 $2');
-//      return string;
-// }
 
-// console.log(insertSpace('SheWalksToTheBeach'));
-// console.log(insertSpace('MawinTalksTooMuch'));
-// console.log(insertSpace('TheGreatestUpsetInHistory'));
 
 
 //REVERSE A STRING
