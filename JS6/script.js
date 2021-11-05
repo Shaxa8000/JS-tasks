@@ -1,7 +1,11 @@
 var fruits = ["Apple", 12, 'Banana', 'Orange', 'Mango'];
 var numbers = [10, 5, 11,'apple', 2, 3, 4, 5];
 
+// MAKING REVERSED
 
+// for (let i = numbers.length - 1; i > 0; i--) {
+//     console.log(numbers[i]);
+// }
 
 // FINDING A AND B IN THE ARRAY
 
@@ -35,7 +39,7 @@ var numbers = [10, 5, 11,'apple', 2, 3, 4, 5];
 //     console.log(sum);
 // }
 
-sumOfArr();
+// sumOfArr();
 
 
 
