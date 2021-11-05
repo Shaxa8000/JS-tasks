@@ -26,8 +26,27 @@ var numbers = [10, 5, 11,'apple', 2, 3, 4, 5];
 // const sumOfArr = () => {
 //     var sum = 0;
 //     for (let i = 0; i < numbers.length; i++) {
-//         if (numbers[i] === "apple") {
-//             numbers.splice(i, 1);
+//         if (typeof numbers[i] === 'number') {
+//             sum += numbers[i]
+//         } else {
+//             continue
+//       }
+//     }
+//     console.log(sum);
+// }
+
+sumOfArr();
+
+
+
+// FINDING SUM OF ODD AND EVEN NUMBERS
+// even
+
+// const sumOfArr = () => {
+//     var sum = 0;
+//     for (let i = 0; i < numbers.length; i+=2) {
+//         if (numbers[i] === "number") {
+//             return numbers[i]
 //       }
 //       sum += numbers[i];
 //     }
@@ -35,24 +54,6 @@ var numbers = [10, 5, 11,'apple', 2, 3, 4, 5];
 // }
 
 // sumOfArr();
-
-
-
-// FINDING SUM OF ODD AND EVEN NUMBERS
-// even
-
-const sumOfArr = () => {
-    var sum = 0;
-    for (let i = 0; i < numbers.length; i+=2) {
-        if (numbers[i] === "number") {
-            return numbers[i]
-      }
-      sum += numbers[i];
-    }
-    console.log(sum);
-}
-
-sumOfArr();
 
 
 // odd 
