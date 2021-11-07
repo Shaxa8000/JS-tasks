@@ -90,4 +90,19 @@
 // console.log(ceil(1.001));
 
 
+// function square(number) {
+//   return number * number;
+// }
 
+// function myFunc(theObject) {
+//   theObject.make = 'Toyota';
+// }
+
+// var mycar = {make: 'Honda', model: 'Accord', year: 1998};
+// var x, y;
+
+// x = mycar.make; // x gets the value "Honda"
+
+// myFunc(mycar);
+// y = mycar.make; // y gets the value "Toyota"
+//                 // (the make property was changed by the function)
